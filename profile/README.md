@@ -1,16 +1,16 @@
-## minceraft.
-> (mods for 1.8.9, mostly designed for hypixel)
+## Minecraft things
+> (mods for forge 1.8.9, mostly designed for hypixel)
 
-### most of this stuff is unfinished
+### Most of this stuff is unfinished
 
 ---
-more or less finished:
+More or less finished:
 - barriermodels
 - nickfinder
 - energyreporter
 -
 
-unfinished but usable to some extent:
+Unfinished but usable to some extent:
 - betternametags (private for now)
 - mwcompass
 - camerautil
